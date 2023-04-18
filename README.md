@@ -36,5 +36,3 @@ Here are some ideas to get you started:
 
 &nbsp;<img width=55% src="https://github-readme-stats.vercel.app/api?username=qwejod&show_icons=true&theme=transparent" alt="qwejod" /></p>
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qwejod&" alt="qwejod" />
