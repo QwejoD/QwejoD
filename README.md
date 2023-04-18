@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Desmond Osarfo Amoah</h1>
 <h3 align="center">A researcher passionate about the intersection of artificial intelligence (AI), machine learning (ML), and medical research. With a background in biomedical engineering and bioinformatics, I'm constantly exploring ways to leverage cutting-edge technology to advance healthcare</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qwejod&label=Profile%20views&color=0e75b6&style=flat" alt="qwejod" /> </p>
-
 - ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/qwejod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qwejod" height="30" width="40" /></a>
@@ -34,6 +31,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwejod&show_icons=true&locale=en&layout=compact" alt="qwejod" width="280" height="280"/>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qwejod&show_icons=true&locale=en" alt="qwejod" width="280" height="280" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qwejod&show_icons=true&locale=en" alt="qwejod"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwejod&" alt="qwejod" /></p>
