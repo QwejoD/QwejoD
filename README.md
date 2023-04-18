@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Desmond Osarfo Amoah</h1>
-<h3 align="center">A researcher passionate about the intersection of artificial intelligence (AI), machine learning (ML), and medical research. With a background in biomedical engineering, and bioinformatics. I'm constantly exploring ways to leverage cutting-edge technology to advance healthcare</h3>
+<h3 align="center">A researcher passionate about the intersection of artificial intelligence (AI), machine learning (ML), and medical research. With a background in biomedical engineering and bioinformatics, I'm constantly exploring ways to leverage cutting-edge technology to advance healthcare</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qwejod&label=Profile%20views&color=0e75b6&style=flat" alt="qwejod" /> </p>
 
