@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 <!--![Desmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwejod&show_icons=true&theme=radical)
 --->
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qwejod&show_icons=true&locale=en" alt="qwejod" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwejod&" alt="qwejod" /></p>
 
